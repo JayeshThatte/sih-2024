@@ -6,8 +6,10 @@ dlib @ file:///C:/Users/Jayesh%20Thatte/Documents/PERSONAL/Projects/Personal/sih
 face-recognition==1.3.0
 face_recognition_models==0.3.0
 idna==3.10
-numpy==2.2.4
+numpy==1.26.4
 opencv-python==4.11.0.86
 pillow==11.1.0
+python-dotenv==1.1.0
 requests==2.32.3
+setuptools==78.0.2
 urllib3==2.3.0
